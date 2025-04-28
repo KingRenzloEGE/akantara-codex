@@ -1,10 +1,14 @@
 site_name: Akantara Codex
 theme:
   name: material
-  palette:
-    scheme: slate
+ palette:
+  - scheme: slate
     primary: deep purple
     accent: indigo
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+
   features:
     - navigation.instant
     - navigation.top
