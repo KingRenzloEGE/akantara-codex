@@ -1,21 +1,9 @@
-site_name: Akantara  Codex
+site_name: Akantara Codex
 theme:
   name: material
- palette:
-  - scheme: slate
-    primary: deep purple
-    accent: indigo
-    toggle:
-      icon: material/weather-night
-      name: Switch to light mode
-
-  features:
-    - navigation.instant
-    - navigation.top
-    - search.highlight
-    - search.suggest
+  palette:
+    scheme: slate
 nav:
   - Home: index.md
-  - Glossary: Glossary.md
-  - Tome I: Divine Mythos:
-    - Eclipsed Triumvirate: Tome_I_Divine_Mythos/Chunk_1_Eclipsed_Triumvirate.md
+  - Tome I: Divine Origins and Mythos: tome1.md
+  - Glossary of Akantara: glossary.md
