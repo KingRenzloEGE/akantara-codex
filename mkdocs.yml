@@ -1,8 +1,14 @@
 site_name: Akantara Codex
 theme:
   name: material
-  palette:
-    scheme: slate
+ palette:
+  toggle:
+    icon: material/weather-night
+    name: Switch to light mode
+  scheme: slate
+  primary: black
+  accent: indigo
+
 nav:
   - Home: index.md
   - Tome I: Divine Origins and Mythos: tome1.md
