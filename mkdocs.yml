@@ -4,6 +4,3 @@ theme:
   palette:
     scheme: slate
 nav:
-  - Home: index.md
-  - Tome I: Divine Origins and Mythos: tome1.md
-  - Glossary of Akantara: glossary.md
