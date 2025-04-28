@@ -1,13 +1,8 @@
-site_name: Akantara Codex  
+site_name: Akantara Codex
 theme:
   name: material
- palette:
-  toggle:
-    icon: material/weather-night
-    name: Switch to light mode
-  scheme: slate
-  primary: black
-  accent: indigo
+  palette:
+    scheme: slate
 
 nav:
   - Home: index.md
